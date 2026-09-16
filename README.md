@@ -2,7 +2,7 @@
 
 ### QA Lead | Senior QA Engineer | SDET
 
-QA professional with 9+ years of experience across **Manual, Functional, API,
+QA Lead / Senior QA Engineer with 9+ years of experience across **Manual, Functional, API,
 Integration and Automation Testing** for Web and Mobile applications.
 
 I specialize in building reliable QA processes and maintainable automation
